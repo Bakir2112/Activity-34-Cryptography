@@ -22,3 +22,6 @@ Each module has a single responsibility:
 - `main.c` → user interaction
 - `caesar.c` → encryption/decryption logic
 - `caesar.h` → shared function declarations
+
+<img width="676" height="918" alt="image" src="https://github.com/user-attachments/assets/f3a3c3dd-7a7a-4ba6-8943-4b4e41671378" />
+
